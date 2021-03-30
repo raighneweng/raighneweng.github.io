@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Raighne&#39;s Blog</title>
+  <icon>http://raighne.xyz/icon.png</icon>
+  
+  <link href="http://raighne.xyz/atom.xml" rel="self"/>
+  
+  <link href="http://raighne.xyz/"/>
+  <updated>2021-03-30T01:06:52.728Z</updated>
+  <id>http://raighne.xyz/</id>
+  
+  <author>
+    <name>Raighne</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>大金ModBus模块homebridge</title>
+    <link href="http://raighne.xyz/2021/02/06/homebridge/"/>
+    <id>http://raighne.xyz/2021/02/06/homebridge/</id>
+    <published>2021-02-06T05:48:10.000Z</published>
+    <updated>2021-03-30T01:06:52.728Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;家里工作两年的网关出了问题，尝试恢复的时候发现还是有点难度，缺乏可用的文档。所以整理一下备份出来。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Home" scheme="http://raighne.xyz/categories/Home/"/>
+    
+    
+    <category term="智能家居" scheme="http://raighne.xyz/tags/%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>惊呼“原来这样啊” -《鸡尾酒法典》读手感</title>
+    <link href="http://raighne.xyz/2020/12/08/cocktail/"/>
+    <id>http://raighne.xyz/2020/12/08/cocktail/</id>
+    <published>2020-12-08T12:41:02.000Z</published>
+    <updated>2021-03-30T01:06:52.728Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;听了最新一期的杯弓舌瘾讲鸡尾酒，简直推翻了我所有之前对鸡尾酒的理解，第一时间下单了《鸡尾酒法典》了。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="wine" scheme="http://raighne.xyz/categories/wine/"/>
+    
+    
+    <category term="wine" scheme="http://raighne.xyz/tags/wine/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>selenium爬虫小记</title>
+    <link href="http://raighne.xyz/2018/03/16/20180316/"/>
+    <id>http://raighne.xyz/2018/03/16/20180316/</id>
+    <published>2018-03-16T06:22:08.000Z</published>
+    <updated>2021-03-30T01:06:52.728Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;刚刚学代码的时候就想写个爬虫，爬一点有意思的东西，也试着爬豆瓣知乎的一些内容，然而在内容值钱的年代，爬虫越来越难，最近接触到selenium自动化测试，想着用这个做爬虫岂不美哉。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Web" scheme="http://raighne.xyz/categories/Web/"/>
+    
+    
+    <category term="python" scheme="http://raighne.xyz/tags/python/"/>
+    
+    <category term="技术" scheme="http://raighne.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>redis的封装</title>
+    <link href="http://raighne.xyz/2018/02/22/20180222/"/>
+    <id>http://raighne.xyz/2018/02/22/20180222/</id>
+    <published>2018-02-22T15:14:40.000Z</published>
+    <updated>2021-03-30T01:06:52.728Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;最近整理项目，发现用到的 redis 的地方很多，对于数据的存储一直没有规范，对于不同的 db 使用 redis.createClient 新建一个数据库链接，然后再分别写方法，其实有一些存查删的方法是共用的，所以诞生了封装 redis，让不用的 db 共用一套方法。思路如下：&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Code" scheme="http://raighne.xyz/categories/Code/"/>
+    
+    
+    <category term="Code" scheme="http://raighne.xyz/tags/Code/"/>
+    
+    <category term="JavaScript" scheme="http://raighne.xyz/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>修改Android drawableRight的大小并设置Ontouch监听</title>
+    <link href="http://raighne.xyz/2017/03/23/android-drawable/"/>
+    <id>http://raighne.xyz/2017/03/23/android-drawable/</id>
+    <published>2017-03-23T02:22:50.000Z</published>
+    <updated>2021-03-30T01:06:52.728Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;最近的安卓项目中遇到了设置edittext drawableRight属性后，图像太大与edittext不协调的情况，搜索了解决方案如下。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Android" scheme="http://raighne.xyz/categories/Android/"/>
+    
+    
+    <category term="Android" scheme="http://raighne.xyz/tags/Android/"/>
+    
+    <category term="Share" scheme="http://raighne.xyz/tags/Share/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>近日面试总结</title>
+    <link href="http://raighne.xyz/2016/10/01/ablout-interview/"/>
+    <id>http://raighne.xyz/2016/10/01/ablout-interview/</id>
+    <published>2016-10-01T10:15:34.000Z</published>
+    <updated>2021-03-30T01:06:52.728Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;进入大四，找实习成了一件非常重要的事情，由于学校里还有课程没有结束，毕设的课题老师也没有选定，没敢大规模的投递简历，就试着投了两份简历给心仪的公司，座标都是上海的互联网公司，办事的效率都很高也很灵活，知道我还在学校，便安排了电话面试。第一次难免是紧张的，在面试的半个小时里面，多次处于颤抖状态，所以面试的自我感觉不是很好，又挨着国庆放假，所以最终结果还没有出来，但我感觉十有八九没戏了。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="职业" scheme="http://raighne.xyz/categories/%E8%81%8C%E4%B8%9A/"/>
+    
+    
+    <category term="面试" scheme="http://raighne.xyz/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+    <category term="职业" scheme="http://raighne.xyz/tags/%E8%81%8C%E4%B8%9A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>计算机网络复习</title>
+    <link href="http://raighne.xyz/2016/09/30/computer-networks-review/"/>
+    <id>http://raighne.xyz/2016/09/30/computer-networks-review/</id>
+    <published>2016-09-30T10:14:59.000Z</published>
+    <updated>2021-03-30T01:06:52.728Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;绪论&quot;&gt;&lt;a href=&quot;#绪论&quot; class=&quot;headerlink&quot; title=&quot;绪论&quot;&gt;&lt;/a&gt;绪论&lt;/h1&gt;&lt;h2 id=&quot;计算机网络的定义&quot;&gt;&lt;a href=&quot;#计算机网络的定义&quot; class=&quot;headerlink&quot; title=&quot;计算机网络的定义&quot;&gt;&lt;/a&gt;计算机网络的定义&lt;/h2&gt;&lt;p&gt;计算机网络是利用通信设备和线路将分布再地理位置不同的、具有独立功能的多个计算机系统连接起来，再功能完善的网络软件的控制下，进行数据通信，实现资源共享、互操作和协同工作的系统。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="CS" scheme="http://raighne.xyz/categories/CS/"/>
+    
+    
+    <category term="计算机网络" scheme="http://raighne.xyz/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+    <category term="CS" scheme="http://raighne.xyz/tags/CS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Anatomy of an HTTP Transaction 翻译</title>
+    <link href="http://raighne.xyz/2016/09/21/Anatomy-of-an-HTTP-Transaction/"/>
+    <id>http://raighne.xyz/2016/09/21/Anatomy-of-an-HTTP-Transaction/</id>
+    <published>2016-09-21T12:38:05.000Z</published>
+    <updated>2021-03-30T01:06:52.728Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;在学习 Nodejs 过程中，发现官方文档里讲 Node.js 对 http 请求的处理过程相当不错，而且一直以来没有看英文文档的习惯，为了强迫自己养成习惯，就想翻译一次官方文档，看看效果如何，相信能学到很多，原文链接&lt;a href=&quot;https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/#create-the-server&quot;&gt;Anatomy of an HTTP Transaction&lt;/a&gt;。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Nodejs" scheme="http://raighne.xyz/categories/Nodejs/"/>
+    
+    
+    <category term="JavaScript" scheme="http://raighne.xyz/tags/JavaScript/"/>
+    
+    <category term="Nodejs" scheme="http://raighne.xyz/tags/Nodejs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>计算机网络要点</title>
+    <link href="http://raighne.xyz/2016/04/13/network/"/>
+    <id>http://raighne.xyz/2016/04/13/network/</id>
+    <published>2016-04-13T15:25:06.000Z</published>
+    <updated>2021-03-30T01:06:52.728Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;OSI，TCP-IP，五层协议的体系结构，以及各层协议&quot;&gt;&lt;a href=&quot;#OSI，TCP-IP，五层协议的体系结构，以及各层协议&quot; class=&quot;headerlink&quot; title=&quot;OSI，TCP/IP，五层协议的体系结构，以及各层协议&quot;&gt;&lt;/a&gt;OSI，TCP/IP，五层协议的体系结构，以及各层协议&lt;/h3&gt;&lt;p&gt;OSI分层 （7层）：物理层、数据链路层、网络层、传输层、会话层、表示层、应用层。&lt;br&gt;TCP/IP分层（4层）：网络接口层、 网际层、运输层、 应用层。&lt;br&gt;五层协议     （5层）：物理层、数据链路层、网络层、运输层、 应用层。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="学习" scheme="http://raighne.xyz/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="计算机" scheme="http://raighne.xyz/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+    <category term="学习" scheme="http://raighne.xyz/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CLRS学习笔记1</title>
+    <link href="http://raighne.xyz/2016/02/16/CLRS-learningnote1/"/>
+    <id>http://raighne.xyz/2016/02/16/CLRS-learningnote1/</id>
+    <published>2016-02-16T06:40:40.000Z</published>
+    <updated>2021-03-30T01:06:52.728Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;第-1-章-算法在计算中的作用&quot;&gt;&lt;a href=&quot;#第-1-章-算法在计算中的作用&quot; class=&quot;headerlink&quot; title=&quot;第 1 章:算法在计算中的作用&quot;&gt;&lt;/a&gt;第 1 章:算法在计算中的作用&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;算法即是一系列的计算步骤,用来将一个有效的输入转换成一个有效的输出。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;计算机的有限的资源必须被有效的利用,算法就是来解决这些问题的方法。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</summary>
+    
+    
+    
+    <category term="学习" scheme="http://raighne.xyz/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="笔记" scheme="http://raighne.xyz/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="算法导论" scheme="http://raighne.xyz/tags/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日五公里践行者</title>
+    <link href="http://raighne.xyz/2015/12/15/everyday5KM/"/>
+    <id>http://raighne.xyz/2015/12/15/everyday5KM/</id>
+    <published>2015-12-15T14:49:01.000Z</published>
+    <updated>2021-03-30T01:06:52.728Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;谷歌“程序员”和“健康”会有3070000条results，足以见得程序员健康状况是多少糟糕，总以为我还年轻，身体足够强壮，应该不会出问题，没想到最近我的身体也开始各种小问题了，所以为了能更好的生活工作，为家人，为自己，我要开始运动。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="运动" scheme="http://raighne.xyz/categories/%E8%BF%90%E5%8A%A8/"/>
+    
+    
+    <category term="运动" scheme="http://raighne.xyz/tags/%E8%BF%90%E5%8A%A8/"/>
+    
+    <category term="跑步" scheme="http://raighne.xyz/tags/%E8%B7%91%E6%AD%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>正则表达式笔记</title>
+    <link href="http://raighne.xyz/2015/09/12/Regular-Expressio/"/>
+    <id>http://raighne.xyz/2015/09/12/Regular-Expressio/</id>
+    <published>2015-09-12T16:42:53.000Z</published>
+    <updated>2021-03-30T01:06:52.728Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;正则表达式，又称正规表示法、常规表示法（英语：Regular Expression，在代码中常简写为regex、regexp或RE），计算机科学的一个概念。正则表达式使用单个字符串来描述、匹配一系列符合某个句法规则的字符串。在很多文本编辑器里，正则表达式通常被用来检索、替换那些符合某个模式的文本。&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="笔记" scheme="http://raighne.xyz/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="笔记" scheme="http://raighne.xyz/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="计算机" scheme="http://raighne.xyz/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>函数式编程学习笔记</title>
+    <link href="http://raighne.xyz/2015/08/29/functionalprogramming/"/>
+    <id>http://raighne.xyz/2015/08/29/functionalprogramming/</id>
+    <published>2015-08-29T06:16:20.000Z</published>
+    <updated>2021-03-30T01:06:52.728Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;最近学习的道路上遇到了函数式编程（functional programming），教材充斥着无比枯燥的教科书语言：干涩，难懂。看书的时候心情简直如下图所示：它母亲的怎么就那么难学？好在网上的程序员大牛太多，本着开源分享的精神写了很多教材，使我收益良多，特地总结在这里。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="编程" scheme="http://raighne.xyz/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+    <category term="编程" scheme="http://raighne.xyz/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Has man a future?</title>
+    <link href="http://raighne.xyz/2015/08/22/20150822/"/>
+    <id>http://raighne.xyz/2015/08/22/20150822/</id>
+    <published>2015-08-22T06:39:48.000Z</published>
+    <updated>2021-03-30T01:06:52.728Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;过去的一个月，发生了很多事情：曲径和红杏相继停机，shadowsocks作者被喝茶，今天删除了项目，留下一句：Removed according to regulations.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="作死" scheme="http://raighne.xyz/categories/%E4%BD%9C%E6%AD%BB/"/>
+    
+    
+    <category term="GFW" scheme="http://raighne.xyz/tags/GFW/"/>
+    
+    <category term="作死" scheme="http://raighne.xyz/tags/%E4%BD%9C%E6%AD%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我订阅的RSS</title>
+    <link href="http://raighne.xyz/2015/06/24/recommendrss/"/>
+    <id>http://raighne.xyz/2015/06/24/recommendrss/</id>
+    <published>2015-06-24T15:08:05.000Z</published>
+    <updated>2021-03-30T01:06:52.728Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;在这个自媒体时代，新闻从四面八方像我们涌来，我们陷入了信息的潮流里，然而，假新闻，垃圾新闻也充斥在其中，浪费了我们的时间，打造适合自己的阅读工具必不可少&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="RSS" scheme="http://raighne.xyz/categories/RSS/"/>
+    
+    
+    <category term="RSS" scheme="http://raighne.xyz/tags/RSS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>慢慢的 就没有了 就像从未存在过</title>
+    <link href="http://raighne.xyz/2015/03/30/staboutgoogle/"/>
+    <id>http://raighne.xyz/2015/03/30/staboutgoogle/</id>
+    <published>2015-03-30T08:08:34.000Z</published>
+    <updated>2021-03-30T01:06:52.728Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;一盏一盏的灯，灭了。四面八方的光源，消失了。我们生活的五光十色的世界，变成了一片黑色。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;天黑了，那么睡觉吧，但愿长醉不复醒，卧槽泥马勒戈壁。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;最后，我们变成了一群做梦的人，这个梦的名字，叫根据相关法律法规，相关搜索结果不予显示梦。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;版权声明：转载自 《慢慢的 就没有了 就像从未存在过》&lt;/p&gt;
+&lt;p&gt;作者: 小海&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="转载" scheme="http://raighne.xyz/categories/%E8%BD%AC%E8%BD%BD/"/>
+    
+    
+    <category term="自由" scheme="http://raighne.xyz/tags/%E8%87%AA%E7%94%B1/"/>
+    
+    <category term="开放" scheme="http://raighne.xyz/tags/%E5%BC%80%E6%94%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《原码,反码,补码》笔记</title>
+    <link href="http://raighne.xyz/2015/03/15/ComputerCode/"/>
+    <id>http://raighne.xyz/2015/03/15/ComputerCode/</id>
+    <published>2015-03-15T05:47:58.000Z</published>
+    <updated>2021-03-30T01:06:52.728Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;大一第一学期学的《C语言程序设计》的时候就接触到原码，反码和补码了，当时也没有认真听，只是稍微了解了一下，并没有留下太多记忆深刻的东西，这学期的专业课《数字电子技术基础》又讲到了，便把内容整理了出来，方便自己和大家理解</summary>
+    
+    
+    
+    <category term="计算机" scheme="http://raighne.xyz/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+    
+    <category term="编码" scheme="http://raighne.xyz/tags/%E7%BC%96%E7%A0%81/"/>
+    
+    <category term="二进制" scheme="http://raighne.xyz/tags/%E4%BA%8C%E8%BF%9B%E5%88%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何管理好自己的密码</title>
+    <link href="http://raighne.xyz/2015/03/11/passwordmangement/"/>
+    <id>http://raighne.xyz/2015/03/11/passwordmangement/</id>
+    <published>2015-03-11T10:05:36.000Z</published>
+    <updated>2021-03-30T01:06:52.728Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;微博，QQ，邮箱，App Store，淘宝，支付宝，支付，各种论坛，密码已经乱成一锅粥，把鸡蛋都放在一个篮子里（所有的密码都设置为相同），就要承担一个密码泄露后其他帐号不再安全的风险。把鸡蛋放在不同的篮子里（每个网站用不同的密码），又担心密码太多，每个网站又都有自己的密码规则，连自己都会忘记的尴尬。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="安全" scheme="http://raighne.xyz/categories/%E5%AE%89%E5%85%A8/"/>
+    
+    
+    <category term="安全" scheme="http://raighne.xyz/tags/%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>情人节的时候，我在想爷爷</title>
+    <link href="http://raighne.xyz/2015/02/14/Valentine_s_Day/"/>
+    <id>http://raighne.xyz/2015/02/14/Valentine_s_Day/</id>
+    <published>2015-02-14T10:33:01.000Z</published>
+    <updated>2021-03-30T01:06:52.728Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;今天是情人节啊，大家情人节快乐啊！你们应该都在电影院陪对象呢吧，我呢，我情人节在医院，是啊，医院。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="2015" scheme="http://raighne.xyz/categories/2015/"/>
+    
+    
+    <category term="亲情" scheme="http://raighne.xyz/tags/%E4%BA%B2%E6%83%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>转载《寂静之城 (The Silence City)》</title>
+    <link href="http://raighne.xyz/2015/01/02/The-Silence-City/"/>
+    <id>http://raighne.xyz/2015/01/02/The-Silence-City/</id>
+    <published>2015-01-02T14:33:16.000Z</published>
+    <updated>2021-03-30T01:06:52.728Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;马伯庸《寂静之城》未删节版本全文&lt;br&gt;发表在 2005 年第 5 期《科幻世界》上的本文由于众所周知的原因进行了删节,这是发在马伯庸 个人网站上的原文&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="转载" scheme="http://raighne.xyz/categories/%E8%BD%AC%E8%BD%BD/"/>
+    
+    
+    <category term="转载" scheme="http://raighne.xyz/tags/%E8%BD%AC%E8%BD%BD/"/>
+    
+  </entry>
+  
+</feed>
